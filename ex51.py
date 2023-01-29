@@ -1,0 +1,9 @@
+#Cores
+print('\033[1;30mteste\33[m','\033[1;30;41mteste\33[m','\033[4;30mteste\33[m')
+print('\033[1;31mteste\33[m','\033[1;30;42mteste\33[m','\033[1;30mteste\33[m')
+print('\033[1;32mteste\33[m','\033[1;30;43mteste\33[m','\033[7;30mteste\33[m')
+print('\033[1;33mteste\33[m','\033[1;30;44mteste\33[m','\033[4;30mteste\33[m')
+print('\033[1;34mteste\33[m','\033[1;30;45mteste\33[m','\033[1;30mteste\33[m')
+print('\033[1;35mteste\33[m','\033[1;30;46mteste\33[m','\033[1;30mteste\33[m')
+print('\033[1;36mteste\33[m','\033[1;30;47mteste\33[m','\033[7;30mteste\33[m')
+print('\033[1;37mteste\33[m','\033[1;30;40mteste\33[m','\033[4;30mteste\33[m')
